@@ -5,10 +5,10 @@
   a link to your repo, e.g. 
   https://github.com/ucsb-cs156-f23/jpa02-cgaucho
 
-Repo: [https://ucsb-cs156-f23/STARTER-jpa02](https://github.com/ucsb-cs156-f23/jpa02-EricM5)
+Repo: https://github.com/ucsb-cs156-f23/jpa02-EricM5
 
 
-Deployed at: [https://jpa02-replace-me.dokku-xx.cs.ucsb.edu](https://jpa02-ericm5.dokku-12.cs.ucsb.edu)
+Deployed at: https://jpa02-ericm5.dokku-12.cs.ucsb.edu
 
 
 # About this repo
